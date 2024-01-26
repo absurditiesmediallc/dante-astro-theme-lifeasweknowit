@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
+    title: 'Lifeasweknowit Studios Michigan',
     subtitle: 'Minimal Astro.js theme',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
@@ -55,7 +55,7 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
+            text: 'Booking',
             href: '/blog'
         },
         {
@@ -96,8 +96,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Welcome to Life as we know it Studios',
+        text: "Life as we know it Studios is the musical project of Richard E Pfahl. Born in Cleaveland, OH, Richard has participated in many musical projects starting in the 1960's from the Garage Band Jonny and the Viscounts to extended time backing up acts from the Outsiders well known for their hit single \"Time Wont Let Me\" and even playing backup guitar for Chuck Berry",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
