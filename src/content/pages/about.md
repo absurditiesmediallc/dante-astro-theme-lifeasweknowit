@@ -8,16 +8,16 @@ seo:
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
-
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![Jonny and is Viscounts](/about-min.jpg)
 
 ## Richard Pfahl- Musician and Songwriter
 
 **Greetings!** What a shame and a loss to the world it would be if all forms of analog art, photography, music and so on created by people everywhere were allowed to continue their decay into obsolecense, eventually thrown away or lost to obscurity. Even more of a shame is that this is happening to so many peoples' bodies of work, their lives creations, at a time that it is cheaper and easier than ever to archive such data on the internet. Realizing this, I set to work to find and digitize as much of my father's music from its various analog formats. Literally digging up the past to try to find the reel to reels, tapes and acetate recordings that exist and safely transform them into digital files that can be listened to by anyone who chooses. Archiving the stories, photos and musical body of work while such is still possible was the original insipiration behind this websites creation. 
 
-## Stanley Pfahl, The Father of Richard and an Inspirational Man
+## Stan Pfahl, The Father of Richard and an Inspirational Man
+![Stan Pfahl pre war](/stan2.png)
 Musically, Stan is the first of three generations of men in this family who played, and held a lifelong interest music, but he was much more than that. As a young boy, he had big dreams, some would say unconventional dreams, but it was clear he was interested in doing more than sitting at a desk in life. He had wanted to be a travelling hobo, which was not a bad word in those days as it seems it has become. He had a love for country music, and played his own on his guitar, a yellow bodied acoustic guitar with a decorated pick gaurd. 
+![Stan Edward Pfahl WWII Purple Heart](/stan.png)
 
 Unfortunately WWII cut his dreams short. He had just had his first child before the war, and as a man who believed in his duty, waited for himself to be drafted into service and sent to where he was most needed. That turned out to be Paupa New Guneia, a place most people do not associate with WWII, because other than those who were there, it is not mentioned much in the history of the war. The men stationed there were waiting to go fight the Japanese, and were not expected to live through the fight they were going to be called into. Fortunately, they were called home before that happened, due to the bombs dropped on Japan ending the need for American fighters waiting in the south pacific. 
 

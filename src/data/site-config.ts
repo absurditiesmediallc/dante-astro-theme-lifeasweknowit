@@ -51,6 +51,10 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
+            text: 'About',
+            href: '/about'
+        },
+        {
             text: 'Projects',
             href: '/projects'
         },
@@ -58,10 +62,6 @@ const siteConfig: SiteConfig = {
             text: 'Booking',
             href: '/blog'
         },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
     ],
     footerNavLinks: [
         {
@@ -108,11 +108,6 @@ const siteConfig: SiteConfig = {
                 href: '/contact'
             }
         ]
-    },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
     },
     postsPerPage: 8,
     projectsPerPage: 8

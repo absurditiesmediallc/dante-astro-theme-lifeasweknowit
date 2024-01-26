@@ -14,6 +14,8 @@ seo:
 
 **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
 
+And then I (Rick) edited some bullshit out of it and will continue to make edits because this document shall be the starting point for my book about the hell I experienced as a remote worker. 
+
 In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes. While this shift has brought about many benefits, it has also introduced its fair share of challenges. Let's explore the advantages and disadvantages of working from home.
 
 ## Advantages of Working from Home
@@ -26,9 +28,7 @@ In recent years, the way we work has undergone a significant transformation, lar
 
 4. **Increased Productivity:** Many people find that they are more productive when working from home. The absence of office distractions and the ability to create a personalized work environment can lead to improved focus and efficiency.
 
-5. **Work-Life Balance:** Remote work allows for better work-life balance. Employees can better manage their personal and professional lives, leading to reduced burnout and increased job satisfaction.
 
-> Your ability to discipline yourself to set clear goals and then work toward them every day will do more to guarantee your success than any other single factor.
 
 ## Disadvantages of Working from Home
 
@@ -44,4 +44,8 @@ In recent years, the way we work has undergone a significant transformation, lar
 
 6. **Career Growth:** Some employees may feel that working remotely limits their opportunities for career advancement, as they may have less visibility within the organization.
 
-While it offers flexibility, cost savings, and improved work-life balance, it can also lead to isolation, communication challenges, and distractions. The key to successful remote work lies in finding a balance that suits individual preferences and addressing potential drawbacks through effective communication, time management, and self-discipline. As remote work continues to evolve, understanding and adapting to these advantages and disadvantages will be crucial for both employees and employers.
+5. **Work-Life Balance:** Remote work allows for better work-life balance in some ways, but much of the time it creates a feeling of ALWAYS NEEDING TO BE ON. Employees can better manage their personal and professional lives, but they may need to be a little more impolite to  prevent burnout and increase job satisfaction. This can be especially problematic for women, who, under the patriarchy have often had the traits needed to avoid these problems beaten out of them. 
+
+> Your ability to discipline yourself to set clear goals and then work toward them every day will do more to guarantee your success than any other single factor.
+
+While it offers flexibility, and cost savings. it can also lead to isolation, communication challenges, and distractions. The key to successful remote work lies in finding a balance that suits individual preferences and addressing potential drawbacks through effective communication, time management, and self-discipline. As remote work continues to evolve, understanding and adapting to these advantages and disadvantages will be crucial for both employees and employers.

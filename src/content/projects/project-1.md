@@ -8,7 +8,7 @@ seo:
     alt: Archival Project
 ---
 
-![Project preview](/project-1.jpg)
+![Project preview](/archival-min.jpg)
 
 
 **Project Overview:**
@@ -34,11 +34,8 @@ To build a website where users are able to access the photos and recordings of t
 - Users can read articles about up and coming music being made now, future plans, and any potential locations they may be able to see a performance. 
 - Interested users would be able to add their email address to sign up for newsletters so that any marketing done in the future would be more effective, starting with an already built list of potentially interested site visitors. 
 
-3. **Merchendise Marketplace**
 
--Select photos can be made into popularly bought items on a cafepress-like site and web visitors may choose to buy selected images on t-shirts, hoodies, coffee mugs, and the like.
-
-4. **Community Hub:**
+3. **Community Hub:**
 
 - A collection of social media accounts will allow to users to connect with Richard and eachother to create music toheher. Links to come. 
 
