@@ -60,7 +60,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Booking',
-            href: '/blog'
+            href: '/contact'
         },
     ],
     footerNavLinks: [
@@ -75,12 +75,9 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
+    /** 
     socialLinks: [
         {
             text: 'Dribbble',
@@ -95,6 +92,7 @@ const siteConfig: SiteConfig = {
             href: 'https://twitter.com/'
         }
     ],
+    */
     hero: {
         title: 'Welcome to Life as we know it Studios',
         text: "Life as we know it Studios is the musical project of Richard E Pfahl. Born in Cleaveland, OH, Richard has participated in many musical projects starting in the 1960's from the Garage Band Jonny and the Viscounts to extended time backing up acts from the Outsiders well known for their hit single \"Time Wont Let Me\" and even playing backup guitar for Chuck Berry",
