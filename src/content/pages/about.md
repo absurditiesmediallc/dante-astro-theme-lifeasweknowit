@@ -12,16 +12,18 @@ seo:
 
 ## Richard Pfahl- Musician and Songwriter
 
-**Greetings!** What a shame and a loss to the world it would be if all forms of analog art, photography, music and so on created by people everywhere were allowed to continue their decay into obsolecense, eventually thrown away or lost to obscurity. Even more of a shame is that this is happening to so many peoples' bodies of work, their lives creations, at a time that it is cheaper and easier than ever to archive such data on the internet. Realizing this, I set to work to find and digitize as much of my father's music from its various analog formats. Literally digging up the past to try to find the reel to reels, tapes and acetate recordings that exist and safely transform them into digital files that can be listened to by anyone who chooses. Archiving the stories, photos and musical body of work while such is still possible was the original insipiration behind this websites creation. 
+**Greetings!** What a shame and a loss to the world it would be if all forms of analog art, photography, music and so on created by people everywhere were allowed to continue their decay into obsolecense, eventually thrown away or lost to obscurity. Even more of a shame is that this is happening to so many peoples' bodies of work, their lives creations, at a time that it is cheaper and easier than ever to archive such data on the internet. 
+
+Realizing this, I set to work to find and digitize as much of my father's music from its various analog formats. Literally digging up the past to try to find the reel to reels, tapes and acetate recordings that exist and safely transform them into digital files that can be listened to by anyone who chooses. Archiving the stories, photos and musical body of work while such is still possible was the original insipiration behind this websites creation. 
 
 ## Stan Pfahl, The Father of Richard and an Inspirational Man
 ![Stan Pfahl pre war](/stan2.png)
 Musically, Stan is the first of three generations of men in this family who played, and held a lifelong interest music, but he was much more than that. As a young boy, he had big dreams, some would say unconventional dreams, but it was clear he was interested in doing more than sitting at a desk in life. He had wanted to be a travelling hobo, which was not a bad word in those days as it seems it has become. He had a love for country music, and played his own on his guitar, a yellow bodied acoustic guitar with a decorated pick gaurd. 
 ![Stan Edward Pfahl WWII Purple Heart](/stan.png)
 
-Unfortunately WWII cut his dreams short. He had just had his first child before the war, and as a man who believed in his duty, waited for himself to be drafted into service and sent to where he was most needed. That turned out to be Paupa New Guneia, a place most people do not associate with WWII, because other than those who were there, it is not mentioned much in the history of the war. The men stationed there were waiting to go fight the Japanese, and were not expected to live through the fight they were going to be called into. Fortunately, they were called home before that happened, due to the bombs dropped on Japan ending the need for American fighters waiting in the south pacific. 
+Unfortunately WWII cut his dreams short. He had just had his first child before the war, and as a man who believed in his duty, waited for himself to be drafted into service and sent to where he was most needed. That turned out to be Paupau New Guneia, a place most people do not associate with WWII, because other than those who were there, it is not mentioned much in the history of the war. The men stationed there were waiting to go fight the Japanese, and were not expected to live through the fight they were going to be called into. Fortunately, they were called home before that happened, due to the bombs dropped on Japan ending the need for the American fighters waiting in the south pacific. 
 
-Though he spent much of his time there in a state of dread, seemingly waiting for impending doom, Paupa New Guniea had clearly left a mark on him more than just the negative. Later when his grandson asked him about the war, he replied in a stern tone "what do you want to know about that for?" but then calmed down and brought out the globe and showed where he was stationed, instructing the young boy to learn all that he could about that place. 
+Though he spent much of his time there in a state of dread, seemingly waiting for impending doom, Paupau New Guniea had clearly left a mark on him more than just the negative. Later when his grandson asked him about the war, he replied in a stern tone "what do you want to know about that for?" but then calmed down and brought out the globe and showed where he was stationed, instructing the young boy to learn all that he could about that place. 
 
 After he came home from the war, by boat from Paupau New Guniea, he soon had another child, Richard Pfahl, whom he shared at least one interst with, a love of music and the guitar. He had contracted malaria during the war which required him to stay away from intense heat, barring him from a potential job in the steel industry as so many others in their city, Cleveland, worked in. Though the job he took at the telephone company paid half as much, in retrospect it is lucky he avoided potentially early death from steel mill work. He was also a singer and used his music to attempt to lighten the mood around the house. When his wife was set on fighting or complaining he was known to come into the room with an accordian and serenade her with a song, usually met with her chagrin. 
 
@@ -54,11 +56,10 @@ He joined orchestra in school and played cello there, and enjoyed tinkering with
 
 Now that Rich is retired and has more time to dedicate to his music once again he has been taking gigs around town, performing as a solo act singing and playing the guitar. Most recently he has undergone the construction of a new and fully functional music production studio in his home to record his work and potentailly others' in the future. Keep an eye on where Rich goes from here, as he hopes to see more of you out at his gigs in town and put up tracks he records on his soundcloud and mixcloud pages. 
 
-In the meantime, check back often to keep up with what is coming up next, and please feel free to reach out to Rich directly if you like. 
-He can be reached by email at lifeasweknowitstudiosmichigan@gmail.com and by phone at 616-594-9220.
 
 ## Get in Touch
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+In the meantime, check back often to keep up with what is coming up next, and please feel free to reach out to Rich directly if you like. 
+He can be reached by email at lifeasweknowitstudiosmichigan@gmail.com and by phone at 616-594-9220.
 
 _Let's build something amazing together!_

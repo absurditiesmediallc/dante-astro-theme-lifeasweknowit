@@ -12,7 +12,7 @@ seo:
 
 
 **Project Overview:**
-To build a website where users are able to access the photos and recordings of the earlier musical works of Jonny and the Vicounts, and Richard Pfahl, performing as a one man band under the name "Rich E Fall and the Music Machine".
+To build a website where users are able to access the photos and recordings of the earlier musical works of Jonny and the Viscounts, and Richard Pfahl, performing as a one man band under the name "Rich E Fall and the Music Machine".
 
 ## Objectives
 
@@ -26,7 +26,7 @@ To build a website where users are able to access the photos and recordings of t
 1. **Photos Collection:**
 
 - Users are able to browse a gallery of digitized pictures featuring Rich E Fall as well as his previous band, Jonny and the Vicounts. These photos had previously not been digitally archived, so now they are saved for the future and will not be at risk of becoming lost or degraded by time. 
--Captions may be provided to the images to explain who is featured in the image and where they were performing. 
+-Captions may be provided to the images to explain who is featured in the image and the location where they were performing. 
 
 
 2. **News Updates:**
@@ -37,5 +37,5 @@ To build a website where users are able to access the photos and recordings of t
 
 3. **Community Hub:**
 
-- A collection of social media accounts will allow to users to connect with Richard and eachother to create music toheher. Links to come. 
+- A collection of social media accounts will allow to users to connect with Richard and eachother to create music together. Links to come soon. 
 
